@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_MainMenu.unity
+    guid: 531ee62a410535346900927e629b7028
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_OnlineRoomTest.unity
+    guid: 62c4cf1af3ef74a42abffae03c8f1d72
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_AITraining_Easy.unity
+    guid: 98936dfcb0f862542832a7eaafe6a261
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_Main_IceHockeyArena.unity
+    guid: 42ff223591b9fd74484fbcf096900d12
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_TimeChallenge.unity
+    guid: 18f291bac70fc694294a11f632f98e59
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_AITraining_Normal.unity
+    guid: d9e534426f731384f991481b74d2c63d
+  - enabled: 1
+    path: Assets/_Project/Scenes/Scene_AITraining_Hard.unity
+    guid: 1912ec2e82dcfff45937211ed46677e4
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f0e789d7c06d7204583218758d9c6bb5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 36b25fc302ebb1c42bfdc987ea8cb6ff,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 05da6a7f91688b64bb8b6414ccdafc55,
+      type: 2}
